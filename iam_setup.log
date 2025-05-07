@@ -1,14 +1,11 @@
----- IAM Setup Script Started at Wed May  7 16:10:17 GMT 2025 ----
+---- IAM Setup Script Started at Wed May  7 20:57:57 GMT 2025 ----
 Processing jdoe...
-Wed May  7 16:10:17 GMT 2025: Group 'engineering' already exists.
-Wed May  7 16:10:18 GMT 2025: User 'jdoe' created and added to group 'engineering'.
-Wed May  7 16:10:18 GMT 2025: Email sent to John Doe (derrick.alberto-darku@amalitechtraining.org).
+Wed May  7 20:57:57 GMT 2025: Group 'engineering' already exists.
+Wed May  7 20:57:57 GMT 2025: User 'jdoe' already exists. Skipping...
 Processing asmith...
-Wed May  7 16:10:18 GMT 2025: Group 'engineering' already exists.
-Wed May  7 16:10:18 GMT 2025: User 'asmith' created and added to group 'engineering'.
-Wed May  7 16:10:18 GMT 2025: Email sent to Alice Smith (derrick.alberto-darku@amalitechtraining.org).
+Wed May  7 20:57:57 GMT 2025: Group 'engineering' already exists.
+Wed May  7 20:57:57 GMT 2025: User 'asmith' already exists. Skipping...
 Processing mjones...
-Wed May  7 16:10:18 GMT 2025: Group 'design' already exists.
-Wed May  7 16:10:18 GMT 2025: User 'mjones' created and added to group 'design'.
-Wed May  7 16:10:18 GMT 2025: Email sent to Mike Jones (derrick.alberto-darku@amalitechtraining.org).
----- IAM Setup Script Completed at Wed May  7 16:10:18 GMT 2025 ----
+Wed May  7 20:57:57 GMT 2025: Group 'design' already exists.
+Wed May  7 20:57:57 GMT 2025: User 'mjones' already exists. Skipping...
+---- IAM Setup Script Completed at Wed May  7 20:57:57 GMT 2025 ----
